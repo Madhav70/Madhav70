@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Madhav Kumar</h1>
+<h1 align="center">Hi, I'm Madhav Kumar</h1>
 
 <p align="center">
   <b>Python Enthusiast | Data Analysis Learner | Exploring the World of Tech</b>
 </p>
 
-- 🔭 I’m currently working on **Python projects** and **data analysis tasks**
-- 🌱 I’m learning **Pandas, NumPy, Matplotlib**, and exploring **data visualization**
-- 💬 Ask me about **Python basics, data handling, or beginner projects**
-- 🤝 I’m looking to collaborate on **open-source Python tools** and **data-driven projects**
-- ⚡ Fun fact: I enjoy discovering patterns hidden in messy datasets
+- I’m currently working on **Python projects** and **data analysis tasks**
+- I’m learning **Pandas, NumPy, Matplotlib**, and exploring **data visualization**
+- Ask me about **Python basics, data handling, or beginner projects**
+- I’m looking to collaborate on **open-source Python tools** and **data-driven projects**
+- Fun fact: I enjoy discovering patterns hidden in messy datasets
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madhav70&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav70&layout=compact&theme=dark" />
@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### Connect with me:
 
 <p>
   <a href="https://x.com/Madhav_Econ?t=bvT5F--Z8TRncXpvsnf2JA&s=09" target="_blank">
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠 Tools & Technologies:
+### Tools & Technologies:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -52,6 +52,6 @@
 
 ---
 
-### 📈 Profile Views
+### Profile Views
 
 ![Profile views](https://komarev.com/ghpvc/?username=Madhav70&label=Profile%20views&color=0e75b6&style=flat)
