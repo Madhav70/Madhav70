@@ -6,7 +6,6 @@ def is_subset(a, b):
         True if every element of a is also in b (a is a subset of b,
         written a subseteq b), False otherwise.
     """
-    # Using Python's built-in set subset operator
     return a <= b
 
 
@@ -22,7 +21,6 @@ def argmax(values):
     best_value = values[0]
     
     for i in range(1, len(values)):
-        # Using strict inequality > ensures we keep the first occurrence on ties
         if values[i] > best_value:
             best_value = values[i]
             best_index = i
